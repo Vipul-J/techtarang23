@@ -20,14 +20,14 @@ function CodingDesc() {
             <section>
                 <div className='container'>
                     <div className='p-md-5 p-3'>
-                        <h1 className='text-success text-center mb-1 mt-4'>OMNIVILLE - The Ultimate Battle of Brains!..</h1>
+                        <h1 className='text-success text-center mb-1 mt-4' id='quiz'> BUDDHI SAMBHASHA - The Ultimate Battle of Brains!..</h1>
                         <div className='row'>
                             <div className='col-lg-6'>
                                 <div className="hero-content darkBlue-text" data-aos="fade-right" data-aos-duration="1200">
-                                    <p>The "Brainstorm Quiz Challenge" is an exhilarating and intellectually stimulating event that will put your knowledge and quick thinking to the test. It's the ultimate showdown of wits and intelligence where participants compete against each other to be crowned the quiz champions!
+                                    <p> "Unleash your inner genius at Buddhi Sambhasha – the ultimate quiz experience where knowledge reigns supreme! Sharpen your wits, fuel your curiosity, and conquer the quiz stage. Get ready for a whirlwind of questions, excitement, and the thrill of victory. 
                                     </p>
 
-                                    <p>Don't miss out on this chance to test your mental agility and claim your place among the brightest minds. Join us at the "OMNIVILLE " and let the battle of intellects begin!</p>
+                                    <p>Don't miss out on this chance to test your mental agility and claim your place among the brightest minds. Join us at the "Buddhi Sambhasha " and let the battle of intellects begin!</p>
                                 </div>
                             </div>
                             <div className='col-lg-6 d-flex justify-content-center align-items-center'>
@@ -36,13 +36,12 @@ function CodingDesc() {
                         </div>
                         <h4 className='darkBlue-text'>Rules and Regulations</h4>
                         <ul>
-                            <li className='darkBlue-text'>Two participants from each team (1 junior and 1 senior) are mandatory.</li>
-                            <li className='darkBlue-text'>A laptop is required for each team with a good internet connection.</li>
-                            <li className='darkBlue-text'>Total number of rounds played are three.</li>
-                            <li className='darkBlue-text'>Round 1 and 2 will have a time limit.</li>
-                            <li className='darkBlue-text'>Negative marking is done only in the Final (3rd) round.</li>
-                            <li className='darkBlue-text'>Judges' decision is final.</li>
-                            <li className='darkBlue-text'>Discipline must be maintained throughout the event.</li>
+                        <li class="darkBlue-text">Team should consist of 2 participants.</li>
+    <li class="darkBlue-text">Total 3 rounds will be conducted.</li>
+    <li class="darkBlue-text">No electronic devices allowed to use.</li>
+    <li class="darkBlue-text">Judges' decision will be final.</li>
+    <li class="darkBlue-text">Maintain sportsmanship; any malpractices result in disqualification.</li>
+
                         </ul>
                     </div>
                 </div>
@@ -51,14 +50,10 @@ function CodingDesc() {
                     <div className="container">
                         <div className="p-md-5 text-center mt-5">
                             <div className="row">
-                                <h1 className='mb-5 text-white mt-5'>Pre Requisite</h1>
-                                <div className="col-sm" data-aos="zoom-in" data-aos-duration="800">
-                                    <span className="text-white"><FontAwesomeIcon icon={faCode} size="5x" /></span>
-                                    <p className="h5 mt-2 mb-4 text-white">Knowledge of java and python( Binary and ASCII conversions)</p>
-                                </div>
+                                <h1 className='mb-5 text-white mt-5'>Pre Requisite</h1> 
                                 <div className="col-sm" data-aos="zoom-in" data-aos-duration="1400">
                                     <span className="text-white"><FontAwesomeIcon icon={faLaptop} size="5x" /></span>
-                                    <p className="h5 mt-2 mb-4 text-white">Laptop with internet connection</p>
+                                    <p className="h5 mt-2 mb-4 text-white">Basic School-level Tech Knowledge</p>
                                 </div>
                                 <div className="col-sm" data-aos="zoom-in" data-aos-duration="1000">
                                     <span className="text-white"><FontAwesomeIcon icon={faCircleCheck} size="5x" /></span>
@@ -73,13 +68,14 @@ function CodingDesc() {
                             <div className="row">
                                 <div className="col-lg-6">
                                     <h2 className='text-white mt-3'>Student Coordinator : </h2>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Miss. Prananjali Marathe - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9880099013"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Sharath G  - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/8296274643"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800">  Mr. Vipul Jujar - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9591074133"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Dhiraj Kalal  - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9148059365"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                 </div>
                                 <div className="col-lg-6">
                                     <h2 className='text-white mt-3'>Faculty Coordinator : </h2>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Prof. Sushma Naikar -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/7026096111"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
-                                    <h5 className='text-white mb-4' data-aos="zoom-in" data-aos-duration="800"> Prof. Tejaswini Apte -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9591451736"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Prof. Hema Chikkaraddi -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9739595557"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white mb-4' data-aos="zoom-in" data-aos-duration="800"> Prof. Annapurana B -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/#"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white mb-4' data-aos="zoom-in" data-aos-duration="800"> Prof. Rohit D -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/#"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                 </div>
                             </div>
                         </div>

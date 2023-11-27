@@ -9,7 +9,7 @@ import { faSuperpowers, faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import designImg from "../assets/images/designing.png"
 
-function DesignDesc() {
+function ArtDesc() {
     useEffect(() => {
         AOS.init();
     }, []);
@@ -19,7 +19,7 @@ function DesignDesc() {
             <section>
                 <div className='container'>
                     <div className='p-md-5 p-3'>
-                        <h1 className='text-success text-center mb-1 mt-4'>MINERVA - Desire it......Design it! </h1>
+                        <h1 className='text-success text-center mb-1 mt-4'>TANTRA KALA - Expression through the fusion of art and technology! </h1>
                         <div className='row'>
                             <div className='col-lg-6'>
                                 <div className="hero-content darkBlue-text" data-aos="fade-right" data-aos-duration="1200">
@@ -35,11 +35,10 @@ function DesignDesc() {
                         </div>
                         <h4 className='darkBlue-text'>Rules and Regulations</h4>
                         <ul>
-                            <li className='darkBlue-text'>Each team should have a laptop compulsorily.</li>
-                            <li className='darkBlue-text'>They should have their own internet access.</li>
-                            <li className='darkBlue-text'>If found browsing the internet, the team will be disqualified.</li>
-                            <li className='darkBlue-text'>Participants must have knowledge about Figma and Canva.</li>
-                            <li className='darkBlue-text'>Figma and Canva must be pre-installed on the laptops.</li>
+                            <li><span class="darkBlue-text">Only 1 participant</span></li>
+                            <li><span class="darkBlue-text">Total of 3 rounds. Resources are provided by college itself.</span></li>
+                            <li><span class="darkBlue-text">No use of electronic gadgets.</span></li>
+                            <li><span class="darkBlue-text">Judges decision will be final.</span></li>
                         </ul>
                     </div>
                 </div>
@@ -51,11 +50,7 @@ function DesignDesc() {
                                 <div className="col-sm" data-aos="zoom-in" data-aos-duration="800">
                                     <span className="text-white"><FontAwesomeIcon icon={faSuperpowers} size="5x" /></span>
                                     <p className="h5 mt-2 mb-4 text-white">Superhuman color perception Alert : Light blue is different from baby blue! </p>
-                                </div>
-                                <div className="col-sm" data-aos="zoom-in" data-aos-duration="1400">
-                                    <span className="text-white"><FontAwesomeIcon icon={faBrush} size="5x" /></span>
-                                    <p className="h5 mt-2 mb-4 text-white">Elegent fonts = enhanced occasion worthy designs.</p>
-                                </div>
+                                </div> 
                                 <div className="col-sm" data-aos="zoom-in" data-aos-duration="1000">
                                     <span className="text-white"><FontAwesomeIcon icon={faClapperboard} size="5x" /></span>
                                     <p className="h5 mt-2 mb-4 text-white">Develop telepathic skills and articulate the best!</p>
@@ -69,14 +64,16 @@ function DesignDesc() {
                             <div className="row">
                                 <div className="col-lg-6">
                                     <h2 className='text-white mt-3'>Student Coordinator : </h2>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Miss. Sanjana Gururaj - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/8861712256"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Vishwanath N - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/8660854864"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Miss. Chinmay Unkal - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9902867943"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Nishita Hadapad - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/7676132323"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                 </div>
                                 <div className="col-lg-6">
                                     <h2 className='text-white mt-3'>Faculty Coordinator : </h2>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Prof. Rashmi Shetty -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9819162430"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
-                                    <h5 className='text-white mb-4' data-aos="zoom-in" data-aos-duration="800"> Prof. Soniya gudgunti
-                                        -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9880677290"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Prof. Ashwath U -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9448874424"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white mb-4' data-aos="zoom-in" data-aos-duration="800"> Prof. Sharadha M
+                                        -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9449680932"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                        <h5 className='text-white mb-4' data-aos="zoom-in" data-aos-duration="800"> Prof. Uttara R
+                                        -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="#"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                 </div>
                             </div>
                         </div>
@@ -89,4 +86,4 @@ function DesignDesc() {
     )
 }
 
-export default DesignDesc
+export default ArtDesc

@@ -10,17 +10,17 @@ function Events() {
             {/* Events */}
             <section className="hero-wrapper">
                 <div className="p-md-5 p-3 mt-5">
-                    <h1 className="text-center text-white mt-4">Events</h1>
+                    <h1 className="text-center text-white mt-4" id="events">Events</h1>
                     <div className="container">
                         <div className="row">
-                            {/* Design */}
+                            {/* Art */}
                             <div className="col-xl-4 col-lg-6 mt-4">
                                 <div className="card card-stats mb-4 mb-xl-0" data-aos="fade-right" data-aos-duration="800">
                                     <div className="card-body">
                                         <div className="row">
                                             <div className="col">
-                                                    <p className="font-weight-bold mb-1 darkBlue-text">Designing</p>
-                                                    <span className="h2 font-weight-bold mb-0 darkBlue-text">MINERVA</span>
+                                                <p className="font-weight-bold mb-1 darkBlue-text">Digital Art</p>
+                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">TANTRA KALA</span>
                                             </div>
                                             <div className="col-auto">
                                                 <div className="icon icon-shape rwt-txt-light-blue">
@@ -28,7 +28,7 @@ function Events() {
                                                 </div>
                                             </div>
                                             <div className='text-center'>
-                                                <Link to='/designing' className='btn btn-md custom-btn mt-3'>Know More</Link>
+                                                <Link to='/art' className='btn btn-md custom-btn mt-3'>Know More</Link>
                                             </div>
                                         </div>
                                     </div>
@@ -41,7 +41,7 @@ function Events() {
                                         <div className="row">
                                             <div className="col">
                                                 <p className="font-weight-bold mb-1 darkBlue-text">Quiz</p>
-                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">OMNIVILLE</span>
+                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">BUDDHI SAMBHASHA</span>
                                             </div>
                                             <div className="col-auto">
                                                 <div className="icon icon-shape rwt-txt-light-blue">
@@ -54,15 +54,15 @@ function Events() {
                                         </div>
                                     </div>
                                 </div>
-                            </div> 
-                            {/* Coding */}
+                            </div>
+                            {/* Communication */}
                             <div className="col-xl-4 col-lg-6 mt-4">
                                 <div className="card card-stats mb-4 mb-xl-0" data-aos="fade-right" data-aos-duration="1600">
                                     <div className="card-body">
                                         <div className="row">
                                             <div className="col">
-                                                <p className="font-weight-bold mb-1 darkBlue-text">Coding</p>
-                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">PARATRIX</span>
+                                                <p className="font-weight-bold mb-1 darkBlue-text">Communication</p>
+                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">SAMPRAVADANA</span>
                                             </div>
                                             <div className="col-auto">
                                                 <div className="icon icon-shape rwt-txt-light-blue">
@@ -70,7 +70,7 @@ function Events() {
                                                 </div>
                                             </div>
                                             <div className='text-center'>
-                                                <Link to='/coding' className='btn btn-md custom-btn mt-3'>Know More</Link>
+                                                <Link to='/communication' className='btn btn-md custom-btn mt-3'>Know More</Link>
                                             </div>
                                         </div>
                                     </div>
@@ -83,7 +83,7 @@ function Events() {
                                         <div className="row">
                                             <div className="col">
                                                 <p className="font-weight-bold mb-1 darkBlue-text">Gaming</p>
-                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">NETHEREALM</span>
+                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">YUDDHAYUTA</span>
                                             </div>
                                             <div className="col-auto">
                                                 <div className="icon icon-shape rwt-txt-light-blue">
@@ -96,15 +96,15 @@ function Events() {
                                         </div>
                                     </div>
                                 </div>
-                            </div> 
-                            {/* Best Manager */}
+                            </div>
+                            {/* Painting */}
                             <div className="col-xl-4 col-lg-6 mt-4 " data-aos="fade-right" data-aos-duration="2200">
                                 <div className="card card-stats mb-4 mb-xl-0">
                                     <div className="card-body">
                                         <div className="row">
                                             <div className="col">
-                                                <p className="font-weight-bold mb-1 darkBlue-text">Best Manager</p>
-                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">SENTRILEGION</span>
+                                                <p className="font-weight-bold mb-1 darkBlue-text">Digital Painting</p>
+                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">RANGAMUDRA</span>
                                             </div>
                                             <div className="col-auto">
                                                 <div className="icon icon-shape rwt-txt-light-blue">
@@ -112,70 +112,7 @@ function Events() {
                                                 </div>
                                             </div>
                                             <div className='text-center'>
-                                                <Link to="/bestmanager" className='btn btn-md custom-btn mt-3'>Know More</Link>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            {/* Treasure Hunt */}
-                            <div className="col-xl-4 col-lg-6 mt-4">
-                                <div className="card card-stats mb-4 mb-xl-0" data-aos="fade-left" data-aos-duration="2600">
-                                    <div className="card-body">
-                                        <div className="row">
-                                            <div className="col">
-                                                <p className="font-weight-bold mb-1 darkBlue-text">Treasure Hunt</p>
-                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">KAZANISTAN</span>
-                                            </div>
-                                            <div className="col-auto">
-                                                <div className="icon icon-shape rwt-txt-light-blue">
-                                                    <FontAwesomeIcon icon={faGem} className="darkBlue-text display-3 fontAwesom" />
-                                                </div>
-                                            </div>
-                                            <div className='text-center'>
-                                                <Link to='treasurehunt' className='btn btn-md custom-btn mt-3'>Know More</Link>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            {/* Photography */}
-                            <div className="col-xl-4 col-lg-6 mt-4 offset-xl-2 offset-lg-3">
-                                <div className="card card-stats mb-4 mb-xl-0" data-aos="fade-right" data-aos-duration="3000">
-                                    <div className="card-body">
-                                        <div className="row">
-                                            <div className="col">
-                                                <p className="font-weight-bold mb-1 darkBlue-text">Photography</p>
-                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">GRAPHOS</span>
-                                            </div>
-                                            <div className="col-auto">
-                                                <div className="icon icon-shape rwt-txt-light-blue">
-                                                    <FontAwesomeIcon icon={faCameraRetro} className="darkBlue-text display-3 fontAwesom" />
-                                                </div>
-                                            </div>
-                                            <div className='text-center'>
-                                                <Link to="/photography" className='btn btn-md custom-btn mt-3'>Know More</Link>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            {/* Communication */}
-                            <div className="col-xl-4 col-lg-6 mt-4">
-                                <div className="card card-stats mb-4 mb-xl-0" data-aos="fade-left" data-aos-duration="3000">
-                                    <div className="card-body">
-                                        <div className="row">
-                                            <div className="col">
-                                                <p className="font-weight-bold mb-1 darkBlue-text">Communication</p>
-                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">PHANACK</span>
-                                            </div>
-                                            <div className="col-auto">
-                                                <div className="icon icon-shape rwt-txt-light-blue">
-                                                    <FontAwesomeIcon icon={faComment} className="darkBlue-text display-3 fontAwesom" />
-                                                </div>
-                                            </div>
-                                            <div className='text-center'>
-                                                <Link to='/communication' className='btn btn-md custom-btn mt-3'>Know More</Link>
+                                                <Link to="/painting" className='btn btn-md custom-btn mt-3'>Know More</Link>
                                             </div>
                                         </div>
                                     </div>
