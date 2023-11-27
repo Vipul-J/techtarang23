@@ -21,7 +21,6 @@ function App() {
         <Route path="/painting" element={<PaintDesc />} />
         <Route path="/registration" element={<Registration />} />
         <Route path="/team" element={<Team />} />
-
       </Routes>
     </Router>
   );
