@@ -21,16 +21,16 @@ function Navbar() {
                                 <a class="nav-link" href="/">Home</a>
                             </li>
                             <li class="nav-item px-3">
-                                <a class="nav-link" href="#about">Abhigyan 1.0</a>
+                                <a class="nav-link" href="/#about">Abhigyan 1.0</a>
                             </li>
                             <li class="nav-item px-3">
-                                <a class="nav-link" href="#events">Events</a>
+                                <a class="nav-link" href="/#events">Events</a>
                             </li>
                             <li class="nav-item px-3">
-                                <a class="nav-link text-white" href="#registration">Registration</a>
+                                <a class="nav-link text-white" href="/#registration">Registration</a>
                             </li>
                             <li class="nav-item px-3">
-                                <a class="nav-link" href="#contact">Contact</a>
+                                <a class="nav-link" href="/#contact">Contact</a>
                             </li>
                         </ul>
                     </div>

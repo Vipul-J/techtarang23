@@ -20,14 +20,14 @@ function CodingDesc() {
             <section>
                 <div className='container'>
                     <div className='p-md-5 p-3'>
-                        <h1 className='text-success text-center mb-1 mt-4' id='quiz'> BUDDHI SAMBHASHA - The Ultimate Battle of Brains!..</h1>
+                        <h1 className='text-success text-center mb-1 mt-4' id='quiz'> BRUHAMANCH - The Ultimate Battle of Brains!..</h1>
                         <div className='row'>
                             <div className='col-lg-6'>
                                 <div className="hero-content darkBlue-text" data-aos="fade-right" data-aos-duration="1200">
-                                    <p> "Unleash your inner genius at Buddhi Sambhasha – the ultimate quiz experience where knowledge reigns supreme! Sharpen your wits, fuel your curiosity, and conquer the quiz stage. Get ready for a whirlwind of questions, excitement, and the thrill of victory. 
+                                    <p> Unleash your inner genius at Bruhamanch – the ultimate quiz experience where knowledge reigns supreme! Sharpen your wits, fuel your curiosity, and conquer the quiz stage. Get ready for a whirlwind of questions, excitement, and the thrill of victory. 
                                     </p>
 
-                                    <p>Don't miss out on this chance to test your mental agility and claim your place among the brightest minds. Join us at the "Buddhi Sambhasha " and let the battle of intellects begin!</p>
+                                    <p>Don't miss out on this chance to test your mental agility and claim your place among the brightest minds. Join us at the "Bruhamanch" and let the battle of intellects begin!</p>
                                 </div>
                             </div>
                             <div className='col-lg-6 d-flex justify-content-center align-items-center'>
@@ -39,8 +39,7 @@ function CodingDesc() {
                         <li class="darkBlue-text">Team should consist of 2 participants.</li>
     <li class="darkBlue-text">Total 3 rounds will be conducted.</li>
     <li class="darkBlue-text">No electronic devices allowed to use.</li>
-    <li class="darkBlue-text">Judges' decision will be final.</li>
-    <li class="darkBlue-text">Maintain sportsmanship; any malpractices result in disqualification.</li>
+    <li class="darkBlue-text">Judges decision will be final.</li>
 
                         </ul>
                     </div>
@@ -69,7 +68,7 @@ function CodingDesc() {
                                 <div className="col-lg-6">
                                     <h2 className='text-white mt-3'>Student Coordinator : </h2>
                                     <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800">  Mr. Vipul Jujar - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9591074133"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Dhiraj Kalal  - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9148059365"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Dhiraj Kammar  - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9148059365"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                 </div>
                                 <div className="col-lg-6">
                                     <h2 className='text-white mt-3'>Faculty Coordinator : </h2>

@@ -22,12 +22,12 @@ function PaintDesc() {
             <section>
                 <div className='container'>
                     <div className='p-md-5 p-3'>
-                        <h1 className='text-success text-center mb-1 mt-4'>RANGAMUDRA - Colors of Expression ,
+                        <h1 className='text-success text-center mb-1 mt-4'>ALANKRUTA - Colors of Expression ,
                             Strokes of Emotion</h1>
                         <div className='row'>
                             <div className='col-lg-6'>
                                 <div className="hero-content darkBlue-text" data-aos="fade-right" data-aos-duration="1200">
-                                    <p>Join our immersive digital painting event where creativity meets technology! Unleash your artistic potential through a hands-on experience with digital tools.  Let your imagination come to life on the digital canvas!
+                                    <p>Join our immersive digital interpretation and designing event where creativity meets technology! Unleash your artistic potential through a hands-on experience with digital tools.  Let your imagination come to life on the digital canvas!
                                     </p>
                                 </div>
                             </div>
@@ -38,7 +38,10 @@ function PaintDesc() {
                         <h4 className='darkBlue-text'>Rules and Regulations</h4>
                         <ul className='darkBlue-text'>
                         <li className='darkBlue-text'>No. of participants - 2</li>
-                            <li className='darkBlue-text'>Phones are not allowed. Participants should not bring or use mobile devices.</li>
+                            <li className='darkBlue-text'>Students should have basic knowledge of canvas and sketchbook apps/software.
+</li>
+                            <li className='darkBlue-text'>Students are requested to bring their mobile phones as it is a requirement for the sub rounds.
+</li>
                             <li className='darkBlue-text'>Learn basic Canvas and basic Sketch software beforehand.</li>
                         </ul>
 
@@ -67,15 +70,15 @@ function PaintDesc() {
                             <div className="row">
                                 <div className="col-lg-6">
                                     <h2 className='text-white mt-3'>Student Coordinator : </h2>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Miss. Shoaib Bepari - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/6364842923"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Duanshi Shah - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/8904805118"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5></div>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Shoaib Bepari - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/8123027104"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Miss. Duanshi Shah - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/7012971097"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5></div>
                                 <div className="col-lg-6">
                                     <h2 className='text-white mt-3'>Faculty Coordinator : </h2>
                                     <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Prof. Ravi Walikar -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/8892552993"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                     <h5 className='text-white mb-4' data-aos="zoom-in" data-aos-duration="800">Prof. Tejaswini Apte
-                                        -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/ 9591451736"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                        -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9591451736"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                     <h5 className='text-white mb-4' data-aos="zoom-in" data-aos-duration="800">Prof. Jyoti K
-                                        -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/8296653752"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                        -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/#"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                 </div>
                             </div>
                         </div>

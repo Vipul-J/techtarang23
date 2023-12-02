@@ -68,14 +68,14 @@ function CommDesc() {
                             <div className="row">
                                 <div className="col-lg-6">
                                     <h2 className='text-white mt-3'>Student Coordinator : </h2>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Miss. Khushi Naik - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/ 8792860611"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Rahul Bhosale - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/6360371 259"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Miss. Khushi Nayak - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/8792860611"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Rahul Bhosale - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/6360371259"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                 </div>
                                 <div className="col-lg-6">
                                     <h2 className='text-white mt-3'>Faculty Coordinator : </h2>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Prof. Rashmi Shetty -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/https://wa.me/9819162430"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Prof. Rashmi Shetty -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9819162430"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                     <h5 className='text-white mb-4' data-aos="zoom-in" data-aos-duration="800">Prof. Sunaina M
-                                        -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="#"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                        -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/7996673847"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                         <h5 className='text-white mb-4' data-aos="zoom-in" data-aos-duration="800">Prof. Vaishnavi S
                                         -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="#"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                 </div>

@@ -23,9 +23,9 @@ function ArtDesc() {
                         <div className='row'>
                             <div className='col-lg-6'>
                                 <div className="hero-content darkBlue-text" data-aos="fade-right" data-aos-duration="1200">
-                                    <p>Transform your ideas, concepts, and requirements into aesthetically pleasing forms. Balance each form carefully with excellent details and fonts to have the best masterpiece and design. </p>
+                                    <p>Join us for an immersive journey into the world of digital art! Our event showcases the cutting-edge creativity of digital artists, featuring mesmerizing visuals, interactive installations, and innovative techniques. . </p>
 
-                                    <p>Peeps, it's time to show case your best creativity and enhance your innovative skills and join with the trends show what you got!
+                                    <p>Explore a fusion of technology and artistry, where pixels and imagination collide to create stunning masterpieces. Whether you're an enthusiast, a creator, or simply curious, this event invites you to experience the limitless possibilities of digital artistry.
                                     </p>
                                 </div>
                             </div>
@@ -35,8 +35,8 @@ function ArtDesc() {
                         </div>
                         <h4 className='darkBlue-text'>Rules and Regulations</h4>
                         <ul>
-                            <li><span class="darkBlue-text">Only 1 participant</span></li>
-                            <li><span class="darkBlue-text">Total of 3 rounds. Resources are provided by college itself.</span></li>
+                            <li><span class="darkBlue-text">2 participants</span></li>
+                            <li><span class="darkBlue-text">Total of 3 rounds. Resources will be provided.</span></li>
                             <li><span class="darkBlue-text">No use of electronic gadgets.</span></li>
                             <li><span class="darkBlue-text">Judges decision will be final.</span></li>
                         </ul>
@@ -64,8 +64,8 @@ function ArtDesc() {
                             <div className="row">
                                 <div className="col-lg-6">
                                     <h2 className='text-white mt-3'>Student Coordinator : </h2>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Miss. Chinmay Unkal - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9902867943"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Nishita Hadapad - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/7676132323"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Chinmay Unkal - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9902867943"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Miss. Nishita Hadapad - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/7676132323"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                 </div>
                                 <div className="col-lg-6">
                                     <h2 className='text-white mt-3'>Faculty Coordinator : </h2>

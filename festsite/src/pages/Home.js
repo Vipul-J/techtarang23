@@ -9,7 +9,7 @@ import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import heroImg from "../assets/images/hero-img.png"
 import Events from '../components/Events';
-
+ 
 function Home() {
     useEffect(() => {
         AOS.init();
@@ -67,7 +67,7 @@ function Home() {
                             </div>
                             <div className="col-sm" data-aos="zoom-in" data-aos-duration="1000">
                                 <span className="darkBlue-Bg"><FontAwesomeIcon icon={faPeopleGroup} size="5x" /></span>
-                                <p className="h5 mt-2 mb-4 darkBlue-text">15+ Teams</p>
+                                <p className="h5 mt-2 mb-4 darkBlue-text">20+ Teams</p>
                             </div>
                             <div className="col-sm" data-aos="zoom-in" data-aos-duration="1400">
                                 <span className="darkBlue-Bg"><FontAwesomeIcon icon={faAward} size="5x" /></span>
@@ -84,7 +84,7 @@ function Home() {
                                     <h1>AbhiGyan 1.0 Teaser</h1>
                                 </div>
                                 <div className="ratio ratio-21x9 mb-4" data-aos="fade-up" data-aos-duration="2000">
-                                    <iframe className='mobile-iframe' width="560" height="315" src="https://www.youtube.com/embed/5BZSjT_Mx0I"
+                                    <iframe className='mobile-iframe' width="560" height="315" src="https://www.youtube.com/embed/irMtJgdPdTM"
                                         title="YouTube video player" frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                         allowfullscreen></iframe>
@@ -105,7 +105,7 @@ function Home() {
                         <h1 className="p-3">
                         Get ready to dive into the wave of technology and business, expand your horizons, and be part of something extraordinary at Abhigyan 1.0
                         </h1>
-                         <a href="/registration" className="btn btn-md btn-danger" role="button">Register Now</a> 
+                        <Link to="/registration" className="btn btn-md btn-danger" role="button">Register Now</Link> 
                     </div>
                 </div>
             </section>

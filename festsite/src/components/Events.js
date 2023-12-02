@@ -1,7 +1,7 @@
 import React from 'react'
 import "../assets/style/core.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCameraRetro, faClipboardQuestion, faCode, faComment, faGamepad, faGem, faPenNib, faUserTie } from '@fortawesome/free-solid-svg-icons';
+import { faCameraRetro, faClipboardQuestion, faCode, faComment, faCommentAlt, faComments, faGamepad, faGem, faPaintBrush, faPenNib, faUserTie } from '@fortawesome/free-solid-svg-icons';
 import { Link } from "react-router-dom";
 
 function Events() {
@@ -40,8 +40,8 @@ function Events() {
                                     <div className="card-body">
                                         <div className="row">
                                             <div className="col">
-                                                <p className="font-weight-bold mb-1 darkBlue-text">Quiz</p>
-                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">BUDDHI SAMBHASHA</span>
+                                                <p className="font-weight-bold mb-1 darkBlue-text">Digital Quiz</p>
+                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">BRUHAMANCH</span>
                                             </div>
                                             <div className="col-auto">
                                                 <div className="icon icon-shape rwt-txt-light-blue">
@@ -66,7 +66,7 @@ function Events() {
                                             </div>
                                             <div className="col-auto">
                                                 <div className="icon icon-shape rwt-txt-light-blue">
-                                                    <FontAwesomeIcon icon={faCode} className="darkBlue-text display-3 fontAwesom" />
+                                                    <FontAwesomeIcon icon={faComments} className="darkBlue-text display-3 fontAwesom" />
                                                 </div>
                                             </div>
                                             <div className='text-center'>
@@ -83,7 +83,7 @@ function Events() {
                                         <div className="row">
                                             <div className="col">
                                                 <p className="font-weight-bold mb-1 darkBlue-text">Gaming</p>
-                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">YUDDHAYUTA</span>
+                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">VIBHRAM</span>
                                             </div>
                                             <div className="col-auto">
                                                 <div className="icon icon-shape rwt-txt-light-blue">
@@ -103,12 +103,12 @@ function Events() {
                                     <div className="card-body">
                                         <div className="row">
                                             <div className="col">
-                                                <p className="font-weight-bold mb-1 darkBlue-text">Digital Painting</p>
-                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">RANGAMUDRA</span>
+                                                <p className="font-weight-bold mb-1 darkBlue-text">Digital Designing</p>
+                                                <span className="h2 font-weight-bold mb-0 darkBlue-text">ALANKRUTA</span>
                                             </div>
                                             <div className="col-auto">
                                                 <div className="icon icon-shape rwt-txt-light-blue">
-                                                    <FontAwesomeIcon icon={faUserTie} className="darkBlue-text display-3 fontAwesom " />
+                                                    <FontAwesomeIcon icon={faPaintBrush} className="darkBlue-text display-3 fontAwesom " />
                                                 </div>
                                             </div>
                                             <div className='text-center'>

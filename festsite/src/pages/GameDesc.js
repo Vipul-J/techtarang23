@@ -19,7 +19,7 @@ function GameDesc() {
             <section>
                 <div className='container'>
                     <div className='p-md-5 p-3'>
-                        <h1 className='text-success text-center mb-1 mt-4'>YUDDHAYUTA - Enter the Virtual Realm</h1>
+                        <h1 className='text-success text-center mb-1 mt-4'>VIBHRAM - Enter the Virtual Realm</h1>
                         <div className='row'>
                             <div className='col-lg-6'>
                                 <div className="hero-content darkBlue-text" data-aos="fade-right" data-aos-duration="1200">
@@ -34,7 +34,7 @@ function GameDesc() {
                         <h4 className='darkBlue-text'>Rules and Regulations</h4>
                         <ul>
                         <li><span class="darkBlue-text">Team should consist of 2 participants.</span></li>
-    <li><span class="darkBlue-text">ID is compulsory.</span></li>
+    <li><span class="darkBlue-text">ID card of your college is compulsory.</span></li>
     <li><span class="darkBlue-text">Total 3 rounds will be conducted.</span></li>
                     </ul></div>
                 </div>
@@ -61,13 +61,13 @@ function GameDesc() {
                             <div className="row">
                                 <div className="col-lg-6">
                                     <h2 className='text-white mt-3'>Student Coordinator : </h2>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Gaurav Ganiger - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/6363594 505"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
-                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Ashlesha D - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/7483517805"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Mr. Gaurav Ganiger - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/6363594505"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Miss. Ashlesha D - <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/7483517805"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                 </div>
                                 <div className="col-lg-6">
                                     <h2 className='text-white mt-3'>Faculty Coordinator : </h2>
                                     <h5 className='text-white' data-aos="zoom-in" data-aos-duration="800"> Prof.Akhila khoday -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9886962807"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
-                                    <h5 className='text-white mb-4' data-aos="zoom-in" data-aos-duration="800"> Prof.Soniya G -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="#"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
+                                    <h5 className='text-white mb-4' data-aos="zoom-in" data-aos-duration="800"> Prof.Soniya G -  <a className="text-white me-3 btn btn-sm  btn-secondary" href="https://wa.me/9880677290"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                     <h5 className='text-white mb-4' data-aos="zoom-in" data-aos-duration="800"> Prof.Sahana-  <a className="text-white me-3 btn btn-sm  btn-secondary" href="#"><FontAwesomeIcon icon={faWhatsapp} size="lg" /></a></h5>
                                 </div>
                             </div>
