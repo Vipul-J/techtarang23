@@ -18,7 +18,7 @@ function Navbar() {
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item px-3">
-                                <a class="nav-link" href="/">Home</a>
+                                <a class="nav-link" href="https://klebcahubli.in/">Home</a>
                             </li>
                             <li class="nav-item px-3">
                                 <a class="nav-link" href="/#about">Abhigyan 1.0</a>
