@@ -45,9 +45,9 @@ function Home() {
                         <p className='fs-6 text-center fw-normal darkBlue-text' data-aos="fade-in" data-aos-duration="2000"><span className='fs-3 fw-bolder text-success'>Abhigyan 1.0,</span>   PU Fest features riveting sub
                             events : a challenging quiz, competitive
                             gaming, creative digital art, effective
-                            communication, and an immersive experience.
+                            communication, and an impressive digital designing.
                             Participants showcase their intellect in the
-                            quiz, gaming skills, artistic prowess, and
+                            quiz, gaming skills, artistic prowess, creative designs and
                             communication finesse. This festival is a
                             melting pot of diverse talents, fostering a
                             dynamic and inclusive environment for
